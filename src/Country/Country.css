@@ -1,0 +1,9 @@
+.country {
+  text-align: center;
+}
+.country_image {
+  width: 100px;
+  height: 100px;
+  vertical-align: middle;
+  margin: 3rem;
+}
